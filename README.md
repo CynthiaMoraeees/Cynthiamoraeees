@@ -31,21 +31,21 @@
 
 <h2 align="left">📊Estatísticas</h2>
 
-###
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CynthiaMoraeees&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CynthiaMoraeees&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=CynthiaMoraeees&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=true" height="150" alt="stats graph" />
+      </td>
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CynthiaMoraeees&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true" height="150" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CynthiaMoraeees&radius=16&theme=gruvbox&area=true&hide_border=false&hide_title=true" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CynthiaMoraeees&radius=16&theme=gruvbox&area=true&hide_border=true&hide_title=true" height="300" alt="activity graph" />
 </div>
 
 ###
