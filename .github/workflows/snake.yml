@@ -1,19 +1,19 @@
 snake:
   animation: true
-  color: playful
+  color: pastel
   smooth: true
-  speed: 5
-  background: "#f5e1f2"
+  speed: 4
+  background: "#f5f5f5"  # fundo claro, suave
   body:
-    - color: "💚"
-    - size: 3
+    - color: "#d9c6b2"  # tom de bege suave
+    - size: 2
   food:
-    - color: "🍎"
+    - color: "#e2b97f"  # cor de comida em tom de dourado claro
     - size: 2
   tail:
-    - color: "🐍"
+    - color: "#d0b297"  # tom mais quente, em beige mais escuro
     - size: 3
   speed:
-    - max: 12
+    - max: 10
   movement:
-    - easing: "ease-out"
+    - easing: "ease-in-out"  # transição suave
