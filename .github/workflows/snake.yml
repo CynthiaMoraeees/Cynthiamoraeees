@@ -1,19 +1,19 @@
 snake:
   animation: true
-  color: pastel
+  color: playful
   smooth: true
-  speed: 4
-  background: "#f0f0f0"
+  speed: 5
+  background: "#f5e1f2"
   body:
-    - color: "#b4d8e7"
-    - size: 2
+    - color: "💚"
+    - size: 3
   food:
-    - color: "#f6a5c0"
+    - color: "🍎"
     - size: 2
   tail:
-    - color: "#c8c8c8"
+    - color: "🐍"
     - size: 3
   speed:
-    - max: 10
+    - max: 12
   movement:
-    - easing: "ease-in-out"
+    - easing: "ease-out"
