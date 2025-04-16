@@ -1,4 +1,4 @@
-<h1 align="left">Olá! 👋🏼</h1>
+<h1 align="left"> Olá! Bem-vindo ao meu perfil 👋🏼</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">💻Linguagens e Tecnologias</h2>
+<h2 align="left">💻 Linguagens e Tecnologias </h2>
 
 ###
 
