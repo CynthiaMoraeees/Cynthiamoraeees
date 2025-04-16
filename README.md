@@ -19,3 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CynthiaMoraeees&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&locale=pt-br" />
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=CynthiaMoraeees&theme=gruvbox_light&hide_border=false&locale=pt-br" />
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/CynthiaMoraeees/CynthiaMoraeees/output/snake.svg)
+
