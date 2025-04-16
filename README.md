@@ -20,5 +20,6 @@
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=CynthiaMoraeees&theme=gruvbox_light&hide_border=false&locale=pt-br" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/CynthiaMoraeees/CynthiaMoraeees/output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/<seu-usuário>/<seu-repositório>/main/path/to/snake.yml)
+
 
